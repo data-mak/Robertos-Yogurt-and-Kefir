@@ -22,8 +22,36 @@ Insights and recommendations are provided on the following key areas:
 
 ## Executive Summary
 ### Overview of findings
-The Yogurt and Kefir category generated $204.8 million in sales, representing a 10.3% increase compared to last year, with an absolute dollar growth of $19.1 million. This growth indicates strong category demand and improved market performance over the previous year.
+The Yogurt and Kefir category generated $204.8 million in sales, representing a 10.3% increase compared to last year, with an absolute dollar growth of $19.1 million.
 
-Below is the sample slide of the analysis conducted together with the recommendations. The entire powerpoint presentation can be downloaded here.
+This growth indicates strong category demand and improved market performance over the previous year.
 
 ![Growth 10.3%](images/slide1.png)
+
+### Pricing Trends:
+![Pricing Trend](images/slide2.png)
+
+### Distribution and Availability:
+![Distri](images/slide3.png)
+
+### Distribution and Availability:
+![Distri](images/slide3.png)
+
+### Base vs Incremental Sales:
+![Base sales](images/slide4.png)
+
+### Promotional Performance:
+![Promo](images/slide5.png)
+
+## Strategic Recommendations
+Growth is driven by improved store productivity, supported by pricing expansion and reduced dependence on promotions. Consumers are absorbing higher price points while overall demand remains stable. Revenue per distribution point has increased, and performance is increasingly fueled by base sales rather than promotional activity.
+
+### For manufacturers:
+- Maintain pricing power
+- Optimize promo depth
+- Focus on premium innovation
+
+### For retailers:
+- Protect margin (less promo dependency)
+- Maintain shelf stability
+- Prioritize high-velocity SKUs
