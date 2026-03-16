@@ -17,3 +17,8 @@ Insights and recommendations are provided on the following key areas:
 - **Promotional Performance**: Looking at how promotions or special offers help increase sales.
 
 ## Data Structure & Initial Checks
+
+![Data Structure](data-structure.png)
+
+## Executive Summary
+### Overview of findings
