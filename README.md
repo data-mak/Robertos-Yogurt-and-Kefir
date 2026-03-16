@@ -18,7 +18,12 @@ Insights and recommendations are provided on the following key areas:
 
 ## Data Structure & Initial Checks
 
-![Data Structure](data-structure.png)
+![Data Structure](images/data-structure.png)
 
 ## Executive Summary
 ### Overview of findings
+The Yogurt and Kefir category generated $204.8 million in sales, representing a 10.3% increase compared to last year, with an absolute dollar growth of $19.1 million. This growth indicates strong category demand and improved market performance over the previous year.
+
+Below is the sample slide of the analysis conducted together with the recommendations. The entire powerpoint presentation can be downloaded here.
+
+![Growth 10.3%](images/slide1.png)
