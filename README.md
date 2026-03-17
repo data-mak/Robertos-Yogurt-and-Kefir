@@ -34,9 +34,6 @@ This growth indicates strong category demand and improved market performance ove
 ### Distribution and Availability:
 ![Distri](images/slide3.png)
 
-### Distribution and Availability:
-![Distri](images/slide3.png)
-
 ### Base vs Incremental Sales:
 ![Base sales](images/slide4.png)
 
