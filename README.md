@@ -1,5 +1,11 @@
 # Roberto's Yogurt & Kefir - Breaking Down the 10.3% YOY Growth
 
+## Disclaimer
+
+The information, data, and examples provided in this repository are for demonstration and educational purposes only. All names, figures, statistics, and other details are entirely fictional and have been created by the author. They do not represent real individuals, organizations, or actual data.
+
+Any resemblance to real persons, living or dead, or actual events is purely coincidental. This content should not be used as a source of factual information or for decision-making purposes.
+
 ## Project Background
 
 Roberto’s Yogurt & Kefir is a specialty dairy brand focused on crafting fresh, probiotic-rich yogurt and kefir beverages made from high-quality natural ingredients. The brand is dedicated to promoting better gut health, balanced nutrition, and delicious everyday wellness through carefully fermented dairy products.
